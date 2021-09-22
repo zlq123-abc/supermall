@@ -1,0 +1,51 @@
+{
+  "id": "2562457",
+  "name": "路由导航",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2681717",
+      "name": "五角星",
+      "font_class": "wujiaoxing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5732293",
+      "name": "分类",
+      "font_class": "sort",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "624530",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "629366",
+      "name": "我的订单",
+      "font_class": "wodedingdan",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "630051",
+      "name": "我的聚划算",
+      "font_class": "wodejuhuasuan",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    }
+  ]
+}
